@@ -1,1 +1,6 @@
+[Adblock Plus 2.0]
+! Title: NotEasy
+! Last modified: 09 Sep 2016 20:53 UTC
+! Expires: 4 days (update frequency)
+!
 ||thi.nasdak.in^$third-party
