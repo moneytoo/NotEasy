@@ -4,3 +4,4 @@
 ! Expires: 4 days (update frequency)
 !
 ||thi.nasdak.in^$third-party
+lupa.cz##.adblock-message
