@@ -6,3 +6,4 @@
 ||thi.nasdak.in^$third-party
 lupa.cz##.adblock-message
 getpocket.com##.face.front
+root.cz##.adblock-message
