@@ -9,3 +9,4 @@ getpocket.com##.face.front
 root.cz##.adblock-message
 www.alza.cz/apps/BannerMf.ashx
 ||zive.cz/*BannerFileVersion*
+||asdorka.com^$third-party
