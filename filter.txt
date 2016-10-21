@@ -10,3 +10,4 @@ root.cz##.adblock-message
 www.alza.cz/apps/BannerMf.ashx
 ||zive.cz/*BannerFileVersion*
 ||asdorka.com^$third-party
+getpocket.com##.item_type_spoc
