@@ -11,3 +11,5 @@ www.alza.cz/apps/BannerMf.ashx
 ||zive.cz/*BannerFileVersion*
 ||asdorka.com^$third-party
 getpocket.com##.item_type_spoc
+||thi.nasdak.in^$third-party
+||shokala.com
