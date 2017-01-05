@@ -15,3 +15,11 @@ getpocket.com##.item_type_spoc
 ||shokala.com
 getpocket.com##.item.item_type_spoc.spoc_list_item.spoc.adjusted
 getpocket.com##.eoy_promotion
+digidip.net
+addthis.com
+revcontent.com
+addthisedge.com
+shokala.com
+hit.skrz.cz
+cdn.dopc.cz
+zrks.cz
