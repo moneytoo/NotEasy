@@ -3,23 +3,18 @@
 ! Last modified: 09 Sep 2016 20:53 UTC
 ! Expires: 4 days (update frequency)
 !
-||thi.nasdak.in^$third-party
+! ||thi.nasdak.in^$third-party
 lupa.cz##.adblock-message
-getpocket.com##.face.front
 root.cz##.adblock-message
-www.alza.cz/apps/BannerMf.ashx
-||zive.cz/*BannerFileVersion*
-||asdorka.com^$third-party
-getpocket.com##.item_type_spoc
-||thi.nasdak.in^$third-party
-||shokala.com
-getpocket.com##.item.item_type_spoc.spoc_list_item.spoc.adjusted
-getpocket.com##.eoy_promotion
-digidip.net
-addthis.com
-revcontent.com
-addthisedge.com
-shokala.com
-hit.skrz.cz
-cdn.dopc.cz
-zrks.cz
+! ||zive.cz/*BannerFileVersion*
+! ||asdorka.com^$third-part
+! ||thi.nasdak.in^$third-party
+! ||shokala.com
+! digidip.net
+! addthis.com
+! revcontent.com
+! addthisedge.com
+! shokala.com
+! hit.skrz.cz
+! cdn.dopc.cz
+! zrks.cz
