@@ -3,18 +3,6 @@
 ! Last modified: 09 Sep 2016 20:53 UTC
 ! Expires: 4 days (update frequency)
 !
-! ||thi.nasdak.in^$third-party
 lupa.cz##.adblock-message
 root.cz##.adblock-message
-! ||zive.cz/*BannerFileVersion*
-! ||asdorka.com^$third-part
-! ||thi.nasdak.in^$third-party
-! ||shokala.com
-! digidip.net
-! addthis.com
-! revcontent.com
-! addthisedge.com
-! shokala.com
-! hit.skrz.cz
-! cdn.dopc.cz
-! zrks.cz
+www.mobilmania.cz##.ar-link-to-another
