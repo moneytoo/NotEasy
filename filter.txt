@@ -6,5 +6,6 @@
 lupa.cz##.adblock-message
 root.cz##.adblock-message
 www.mobilmania.cz##.ar-link-to-another
+www.zive.cz##.ar-link-to-another
 9to5mac.com##div[itemprop="articleBody"] > div > div > img
 9to5mac.com##div[itemprop="articleBody"] > div > div > h3
