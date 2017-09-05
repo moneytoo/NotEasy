@@ -5,6 +5,8 @@
 !
 lupa.cz##.adblock-message
 root.cz##.adblock-message
+lupa.cz##.promo
+root.cz##.promo
 .mobilmania.cz##.ar-link-to-another
 .zive.cz##.ar-link-to-another
 9to5mac.com##div[itemprop="articleBody"] > div:has(div[itemprop="articleBody"] > div > div > h3)
