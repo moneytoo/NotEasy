@@ -10,3 +10,4 @@ root.cz##.promo
 ##.ar-link-to-another
 9to5mac.com##div[itemprop="articleBody"] > div:has(div[itemprop="articleBody"] > div > div > h3)
 mobilenet.cz##.inarticle--tip
+www.reddit.com###sr-bar
