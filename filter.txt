@@ -11,3 +11,5 @@ root.cz##.promo
 9to5mac.com##div[itemprop="articleBody"] > div:has(div[itemprop="articleBody"] > div > div > h3)
 mobilenet.cz##.inarticle--tip
 www.reddit.com###sr-bar
+root.cz##.promo-in-article
+lupa.cz##.promo-in-article
